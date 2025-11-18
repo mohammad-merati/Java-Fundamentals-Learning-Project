@@ -1,2 +1,32 @@
 # Java-Fundamentals-Learning-Project
-ducational project covering Java fundamentals, including variables, operators, conditionals, loops, and basic exception handling. Created as part of my learning path.
+
+A structured educational project covering the fundamentals of Java.  
+Includes variables, operators, conditionals, loops, arrays, input handling, and basic exception management.
+
+---
+
+## 🚀 How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mohammad-merati/Java-Fundamentals-Learning-Project.git
+   ```
+2. Open the project in an IDE such as IntelliJ IDEA or Eclipse.
+3. Run the `MainApp.java` located in:  
+   ```
+   Gateway01/MainApp.java
+   ```
+
+---
+
+## 🎯 Purpose of the Project
+This project was created as part of my Java learning path  
+and is focused on strengthening core Java skills required for backend and full-stack development.
+
+---
+
+## 📁 Project Structure
+
+## 🧩 Notes
+This project will continue to grow as I progress in Java.  
+More topics such as OOP, classes/objects, file handling, and collections will be added in future updates.
+
