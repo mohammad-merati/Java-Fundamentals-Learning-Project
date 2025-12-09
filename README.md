@@ -23,6 +23,21 @@ This project was created as part of my Java learning path
 and is focused on strengthening core Java skills required for backend and full-stack development.
 
 ---
+🚦 Phase 2 – Arrays & Methods (Gateway 02)
+
+This phase focuses on practicing:
+
+Arrays (یک‌بعدی و دوبعدی)
+
+Methods (return / void)
+
+Passing parameters
+
+Handling console input
+
+Mini Project: Car Service Management System
+
+Source files of this phase are located in:
 
 ## 📁 Project Structure
 
