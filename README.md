@@ -14,7 +14,8 @@ Open the project in an IDE such as IntelliJ IDEA or Eclipse.
 
 Run any MainApp.java file from:
 
-Gateway01/MainApp.java
+Gateway01/MainApp.java 
+
 Gateway02/MainApp.java
 
 🎯 Purpose of the Project
@@ -63,15 +64,15 @@ Mini Project: Car Service Management System
 Java-Fundamentals-Learning-Project/
 │
 ├── Gateway01/
-│    └── MainApp.java      // Java basics practice
+│   └── MainApp.java          // Java basics practice
 │
 ├── Gateway02/
-│    └── MainApp.java      // Arrays & methods mini-project
+│   └── MainApp.java          // Arrays & methods + mini-project
 │
 └── src/
-     └── main/
-          └── java/
-               └── (IDE structure for code execution)
+    └── main/
+        └── java/             // IDE structure for code execution
+
 
 🧩 Notes
 
