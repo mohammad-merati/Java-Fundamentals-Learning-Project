@@ -13,11 +13,11 @@ git clone https://github.com/mohammad-merati/Java-Fundamentals-Learning-Project.
 Open the project in an IDE such as IntelliJ IDEA or Eclipse.
 
 Run any MainApp.java file from:
-
+'''
 Gateway01/MainApp.java 
 
 Gateway02/MainApp.java
-
+'''
 🎯 Purpose of the Project
 
 This repository is part of my Java learning journey and is designed to strengthen the essential skills required for backend and full-stack development.
