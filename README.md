@@ -62,6 +62,7 @@ Mini Project: Car Service Management System
 
 ## 📁 Project Structure
 
+```
 Java-Fundamentals-Learning-Project/
 │
 ├── Gateway01/
@@ -73,6 +74,8 @@ Java-Fundamentals-Learning-Project/
 └── src/
     └── main/
         └── java/             // IDE structure for code execution
+```
+
 
 
 
