@@ -60,7 +60,8 @@ Mini Project: Car Service Management System
 
 📌 This phase improves problem-solving with arrays and modular code using functions.
 
-📁 Project Structure
+## 📁 Project Structure
+
 Java-Fundamentals-Learning-Project/
 │
 ├── Gateway01/
